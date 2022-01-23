@@ -2,7 +2,7 @@
 
 - 🔭 trabalho em ambas stacks
 - 🌱 estudando JavaScript em sua totalidade
-- 📫 chama na dm paezao
+- 📫 chama la no https://www.linkedin.com/in/guilhermeedu/
 - 😄 ele/dele
 
 
