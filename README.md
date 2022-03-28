@@ -1,9 +1,9 @@
 ## fala  mens!, eu sou o Guilherme Eduardo ou guiduzera 😎
 
-- 🔭 trabalho em ambas stacks
-- 🌱 estudando JavaScript em sua totalidade
+- 🔭 apto na stack Front-end.
+- 🌱 estudando ambas as stacks na Trybe e na Unp.
 - 📫 chama la no https://www.linkedin.com/in/guilhermeedu/
-- 😄 ele/dele
+- 😄 ele/dele.
 
 
 <div align="center">
