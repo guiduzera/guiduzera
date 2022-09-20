@@ -7,8 +7,6 @@
 ## 👋 Hello World
 Sou apaixonado por Tecnologia e desenvolvimento a tempos, por isso busquei me especializar a aprender cada vez mais. Estudo Desenvolvimento Web na Trybe, uma escola que vai do conhecimento técnico em programação ao aprender a trabalhar e desenvolver capacidades socioemocionais. Trabalho e acredito em projetos que possam gerar "uma virada de chave" positiva na vida das pessoas.
 
-![Profile Views](https://komarev.com/ghpvc/?username=guiduzera&theme=default&color=blue&style=flat&label=Profile+Views)
-
 ## Sobre mim!
 🎓&nbsp;Formação **Desenvolvimento Web na Trybe (somente em 2023)**
 <br/>🌱&nbsp;Estudando **desenvolvimento Web stack back-end**
