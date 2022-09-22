@@ -5,15 +5,15 @@
 <a href="https://www.instagram.com/guilherme_edu1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
-Sou apaixonado por Tecnologia e desenvolvimento a tempos, por isso busquei me especializar a aprender cada vez mais. Estudo Desenvolvimento Web na Trybe, uma escola que vai do conhecimento técnico em programação ao aprender a trabalhar e desenvolver capacidades socioemocionais. Trabalho e acredito em projetos que possam gerar "uma virada de chave" positiva na vida das pessoas.
+Hello my name is Guilherme and i've been passionate about technology and development for a long time, so I sought to specialize and learn more and more. I study Web Development at Trybe, a school that goes from technical knowledge in programming to learning to work and developing socio-emotional skills. I work and believe in projects that can generate a positive "turnaround" in people's lives.
 
-## Sobre mim!
-🎓&nbsp;Formação **Desenvolvimento Web na Trybe (somente em 2023)**
-<br/>🌱&nbsp;Estudando **desenvolvimento Web stack back-end**
-<br/>💡&nbsp;Gosto de **programação, games e esportes**
-<br/>🤝&nbsp;Gosto de colaborar **com novos projetos**
-<br/>😄&nbsp;Pronomes **ele/dele**
-<br/>📫&nbsp;Me mande uma menssagem [guigui.carvalho15@gmail.com](mailto:guigui.carvalho15@gmail.com)
+## About me!
+🎓&nbsp;Graduated in **Web Development on Trybe (only in 2023)**
+<br/>🌱&nbsp;Learning about **Stack back-end**
+<br/>💡&nbsp; I'm interested about **programming, games and sports**
+<br/>🤝&nbsp; I like to collaborate in **new projects**
+<br/>😄&nbsp; Pronouns **he/his**
+<br/>📫&nbsp;Reach me [guigui.carvalho15@gmail.com](mailto:guigui.carvalho15@gmail.com)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
