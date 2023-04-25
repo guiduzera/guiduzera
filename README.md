@@ -5,10 +5,10 @@
 <a href="https://www.instagram.com/guilherme_edu1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
-Hello my name is Guilherme and i've been passionate about technology and development for a long time, so I sought to specialize and learn more and more. I study Web Development at Trybe, a school that goes from technical knowledge in programming to learning to work and developing socio-emotional skills. I work and believe in projects that can generate a positive "turnaround" in people's lives.
+Hello, my name is Guilherme and I currently work as a Full Stack Web Developer. I am passionate about Technology, so I constantly seek to specialize, learn more and face new challenges, I recently graduated from Trybe, a school that goes from technical knowledge in programming to learning to work and developing socio-emotional skills, on this journey I acquired many learnings, such as Node.js, React, express, Typescript, Docker, Git and among other technologies and I ventured into the world of the programming market, getting involved with freelance projects, becoming a systems analyst at trybe itself and an IT assistant. I work and believe in projects that can generate a positive "turn of the key" in people's lives.
 
 ## About me!
-🎓&nbsp;Graduated in **Web Development on Trybe (only in 2023)**
+🎓&nbsp;Graduated in **Web Development on Trybe**
 <br/>🌱&nbsp;Learning about **Stack back-end**
 <br/>💡&nbsp; I'm interested about **programming, games and sports**
 <br/>🤝&nbsp; I like to collaborate in **new projects**
