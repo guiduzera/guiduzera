@@ -13,7 +13,7 @@ Hello, my name is Guilherme and I currently work as a Full Stack Web Developer. 
 <br/>💡&nbsp; I'm interested about **programming, games and sports**
 <br/>🤝&nbsp; I like to collaborate in **new projects**
 <br/>😄&nbsp; Pronouns **he/his**
-<br/>📫&nbsp;Reach me [guigui.carvalho15@gmail.com](mailto:guigui.carvalho15@gmail.com) | [my Web Site](https://my-web-port-nine.vercel.app/)
+<br/>📫&nbsp;Reach me [guidu.dev@gmail.com](mailto:guidu.dev@gmail.com) | [my Web Site](https://my-web-port-nine.vercel.app/)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
