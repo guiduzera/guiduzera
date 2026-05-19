@@ -1,38 +1,125 @@
 # Guilherme Eduardo Teixeira Carvalho
-<a href="https://www.github.com/guiduzera" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
-<a href="mailto:guigui.carvalho15@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
-<a href="https://www.linkedin.com/in/guilhermeedu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
-<a href="https://www.instagram.com/guilherme_edu1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
-## 👋 Hello World
-Hello, my name is Guilherme and I currently work as a Full Stack Web Developer. I am passionate about Technology, so I constantly seek to specialize, learn more and face new challenges, I recently graduated from Trybe, a school that goes from technical knowledge in programming to learning to work and developing socio-emotional skills, on this journey I acquired many learnings, such as Node.js, React, express, Typescript, Docker, Git and among other technologies and I ventured into the world of the programming market, getting involved with freelance projects, becoming a systems analyst at trybe itself and an IT assistant. I work and believe in projects that can generate a positive "turn of the key" in people's lives.
+<p align="left">
+  <a href="https://github.com/guiduzera" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:guidu.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermeedu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/guilherme_edu1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://my-web-port-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-## About me!
-🎓&nbsp;Graduated in **Web Development on Trybe**
-<br/>🌱&nbsp;Learning about **Stack back-end**
-<br/>💡&nbsp; I'm interested about **programming, games and sports**
-<br/>🤝&nbsp; I like to collaborate in **new projects**
-<br/>😄&nbsp; Pronouns **he/his**
-<br/>📫&nbsp;Reach me [guidu.dev@gmail.com](mailto:guidu.dev@gmail.com) | [my Web Site](https://my-web-port-nine.vercel.app/)
+---
 
-## Tech Stack
-<img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="docker Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma" alt="figma Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql" alt="mysql Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Postgresql-05122A?style=flat&logo=postgresql" alt="postgresql Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+# 👨‍💻 About Me
 
-## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiduzera&theme=default&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiduzera&theme=default&layout=compact&langs_count=5">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guiduzera&theme=default">
+Hi! I'm Guilherme, a passionate **Full Stack Developer** focused on building scalable, modern and impactful solutions.
+
+I work with technologies across the web ecosystem, creating applications ranging from automation tools and APIs to desktop apps and cloud solutions. I enjoy solving real-world problems through technology and constantly improving my technical and product mindset.
+
+Currently, I work with technologies such as **TypeScript, React, Node.js, Tauri, Docker, Firebase, Puppeteer and cloud services**, always looking for new challenges and opportunities to grow.
+
+---
+
+## 🚀 Current Focus
+
+- ⚡ Building modern Full Stack applications
+- 🖥️ Desktop development with **Tauri**
+- 🤖 Automation with **Puppeteer** and **Selenium**
+- ☁️ Cloud & Backend architecture
+- 📊 Real-time applications and integrations
+- 🧪 Software quality and development maturity
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" />
+</p>
+
+### Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" />
+</p>
+
+### Desktop & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=tauri,electron" />
+</p>
+
+### Database & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,nginx" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,bash,vscode" />
+</p>
+
+---
+
+## 📈 Activity & Contributions
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiduzera&theme=github_dark" 
+    width="100%"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=guiduzera&theme=darkhub&no-frame=true&margin-w=15"
+  />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=guiduzera&theme=github-dark"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🎯 Highlights
+
+- 💼 Experience with Full Stack development
+- 🧠 Strong interest in software architecture and scalability
+- 🚀 Experience creating automation systems and integrations
+- 📚 Constant learner focused on modern technologies
+- 🤝 Open to collaborations and innovative projects
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **guidu.dev@gmail.com**
+- 🌐 Portfolio: **https://my-web-port-nine.vercel.app/**
+- 💼 LinkedIn: **https://linkedin.com/in/guilhermeedu**
+
+---
+
+<p align="center">
+  <i>"Technology moves the world — and I love building part of that future."</i>
+</p>
